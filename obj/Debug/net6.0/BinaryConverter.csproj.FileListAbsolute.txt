@@ -1,0 +1,15 @@
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\bin\Debug\net6.0\BinaryConverter.exe
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\bin\Debug\net6.0\BinaryConverter.deps.json
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\bin\Debug\net6.0\BinaryConverter.runtimeconfig.json
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\bin\Debug\net6.0\BinaryConverter.dll
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\bin\Debug\net6.0\BinaryConverter.pdb
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.csproj.AssemblyReference.cache
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.AssemblyInfoInputs.cache
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.AssemblyInfo.cs
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.dll
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\refint\BinaryConverter.dll
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.pdb
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\BinaryConverter.genruntimeconfig.cache
+C:\Users\ollik\Documents\Koulu\Matikka\Course12\BinaryConverter\obj\Debug\net6.0\ref\BinaryConverter.dll
